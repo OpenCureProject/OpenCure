@@ -1,3 +1,5 @@
+CREATED BY 4R7I5T -- OPEN SOURCE CANCER CURE FRAMEWORK. YOU CAN PURCHASE THE GUIDES ONLINE THROUGH REPUTABLE VENDORS. BE CAREFUL! INTEGRATION WITH BIOLLM SOON.
+
 To perform the analysis using GPT-4o for CRISPR-Cas9 gene edits, you will need to integrate GPT-4o with your local setup. Below is an updated guide, including the installation of necessary libraries, setting up the environment, and using GPT-4o for analysis.
 
 Step-by-Step Guide for Genomic Analysis and CRISPR Suggestions with GPT-4o
